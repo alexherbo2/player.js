@@ -2,6 +2,8 @@
 
 > An utility to control media players.
 
+[![Playing videos in picture-in-picture mode](https://img.youtube.com/vi_webp/zgSx1AE6pig/maxresdefault.webp)](https://youtu.be/zgSx1AE6pig)
+
 ## Usage
 
 ``` javascript
