@@ -4,7 +4,7 @@ player.js is a JavaScript library for controlling media players.
 
 ## Installation
 
-Add [`player.js`](scripts/player.js) to your project.
+Add [`player.js`](src/player.js) to your project.
 
 ## Usage
 
@@ -16,4 +16,4 @@ const player = new Player(video)
 player.pictureInPicture()
 ```
 
-See the [source](scripts/player.js) for a complete reference.
+See the [source](src/player.js) for a complete reference.
